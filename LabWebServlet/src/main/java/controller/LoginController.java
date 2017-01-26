@@ -23,6 +23,11 @@ public class LoginController {
 	public String get(String username, String password, Model model) {
 
 		System.out.println("hahaha");
+		System.out.println("hahaha");
+		System.out.println("hahaha");
+		System.out.println("hahaha");
+		System.out.println("hahaha");
+		System.out.println("hahaha");
 
 
 //驗證資料
