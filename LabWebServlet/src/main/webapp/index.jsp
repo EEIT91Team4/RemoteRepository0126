@@ -25,12 +25,9 @@
 
 　　臣本布衣，躬耕南陽，苟全性命于亂世，不求聞達于諸侯。先帝不以臣卑鄙，猥自枉屈，三顧臣于草廬之中，諮臣以當世之事，由是感激，遂許先帝以驅馳。后值傾覆，受任于敗軍之際，奉命于危難之間：爾來二十有一年矣。先帝知臣謹慎，故臨崩寄臣以大事也。受命以來，夙夜憂慮，恐付托不效，以傷先帝之明；故五月渡瀘，深入不毛。今南方已定，甲兵已足，當獎帥三軍，北定中原，庶竭駑鈍，攘除奸凶，興复漢室，還于舊都：此臣所以報先帝而忠陛下之職分也。至于斟酌損益，進盡忠言，則攸之、依、允等之任也。愿陛下托臣以討賊興复之效，不效則治臣之罪，以告先帝之靈；若無興复之言，則責攸之、依、允等之咎，以彰其慢。陛下亦宜自謀，以諮諏善道，察納雅言，深追先帝遺詔。臣不胜受恩感激！今當遠离，臨表涕泣，不知所云。
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
-<<<<<<< HEAD
-<h3><a href="<c:url value="/pages/product.jsp" />">Pot</a></h3>
-=======
+
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
->>>>>>> branch 'master' of https://github.com/EEIT91Team4/RemoteRepository0126
->>>>>>> branch 'master' of https://github.com/EEIT91Team4/RemoteRepository0126.git
+
 
 </body>
 </html>
