@@ -21,8 +21,9 @@ public class LoginController {
 	private CustomerService customerService;
 	@RequestMapping(method={RequestMethod.GET, RequestMethod.POST})
 	public String get(String username, String password, Model model) {
-	
-//驗證資料
+
+		System.out.println("hahaha");
+
 		Map<String, String> errors = new HashMap<String, String>();
 		model.addAttribute("errors", errors);
 

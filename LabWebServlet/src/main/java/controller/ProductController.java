@@ -26,6 +26,7 @@ public class ProductController {
 	private ProductService productService;
 	@InitBinder
 	public void registerCustomerEditor(WebDataBinder webDataBinder) {
+
 		webDataBinder.registerCustomEditor(java.util.Date.class,
 				new CustomDateEditor(new SimpleDateFormat("yyyy-MM-dd"), true));
 		webDataBinder.registerCustomEditor(int.class,
