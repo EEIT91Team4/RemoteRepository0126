@@ -43,7 +43,7 @@ public class ProductController {
 		
 		if("Insert".equals(prodaction) || "Update".equals(prodaction) || "Delete".equals(prodaction)) {
 			if(bean.getId()==0) {
-				errors.put("id", "請輸入Id以執行"+prodaction);
+				errors.put("id", "請輸入Id才能執行"+prodaction);
 			}
 		}
 
