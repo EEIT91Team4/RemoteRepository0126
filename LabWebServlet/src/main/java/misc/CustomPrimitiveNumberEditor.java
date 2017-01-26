@@ -9,6 +9,7 @@ public class CustomPrimitiveNumberEditor extends CustomNumberEditor {
 	public CustomPrimitiveNumberEditor(Class<? extends Number> numberClass,
 			NumberFormat numberFormat, boolean allowEmpty) throws IllegalArgumentException {
 		super(numberClass, numberFormat, allowEmpty);
+		System.out.println("Happy New Year");
 		this.allowEmpty = allowEmpty;
 	}
 	public CustomPrimitiveNumberEditor(Class<? extends Number> numberClass,
