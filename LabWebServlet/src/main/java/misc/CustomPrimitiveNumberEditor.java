@@ -10,6 +10,12 @@ public class CustomPrimitiveNumberEditor extends CustomNumberEditor {
 			NumberFormat numberFormat, boolean allowEmpty) throws IllegalArgumentException {
 		super(numberClass, numberFormat, allowEmpty);
 
+<<<<<<< HEAD
+=======
+		System.out.println("Happy New Year");
+		System.out.println("Happy New Year");
+
+>>>>>>> branch 'master' of https://github.com/EEIT91Team4/RemoteRepository0126.git
 		this.allowEmpty = allowEmpty;
 	}
 	public CustomPrimitiveNumberEditor(Class<? extends Number> numberClass,

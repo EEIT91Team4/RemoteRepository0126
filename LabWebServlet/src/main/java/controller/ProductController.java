@@ -27,6 +27,11 @@ public class ProductController {
 	@InitBinder
 	public void registerCustomerEditor(WebDataBinder webDataBinder) {
 
+<<<<<<< HEAD
+=======
+		System.out.println("hehehe");
+
+>>>>>>> branch 'master' of https://github.com/EEIT91Team4/RemoteRepository0126.git
 		webDataBinder.registerCustomEditor(java.util.Date.class,
 				new CustomDateEditor(new SimpleDateFormat("yyyy-MM-dd"), true));
 		webDataBinder.registerCustomEditor(int.class,
